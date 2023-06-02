@@ -245,6 +245,7 @@ footer p {
 @media screen and (max-width: 768px) {
     .container{
         background-image: none;
+        height: 300px;
     }
     .box-header {
         flex-direction: column;
